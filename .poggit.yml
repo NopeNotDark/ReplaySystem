@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/NopeNotDark/ReplaySystem
+build-by-default: true
+branches:
+- main
+projects:
+  ReplaySystem:
+    path: ""
+    icon: "logo.png"
+...
