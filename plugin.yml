@@ -1,4 +1,4 @@
-nane: ReplaySystem
+name: ReplaySystem
 description: Record and play back your gameplay
 main: nopenotdark\replaysystem\ReplaySystem
 api: [5.0.0]
