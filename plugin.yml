@@ -3,4 +3,6 @@ description: Record and play back your gameplay
 main: nopenotdark\replaysystem\ReplaySystem
 api: [5.0.0]
 version: 1.0.0
-author: NopeNotDark
+authors: 
+  - NopeNotDark
+  - SantanasWrld
